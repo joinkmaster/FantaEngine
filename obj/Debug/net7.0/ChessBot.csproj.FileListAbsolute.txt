@@ -1,0 +1,16 @@
+C:\programming\ChessBot\obj\Debug\net7.0\ChessBot.csproj.AssemblyReference.cache
+C:\programming\ChessBot\obj\Debug\net7.0\ChessBot.csproj.ResolveComReference.cache
+C:\programming\ChessBot\obj\Debug\net7.0\ChessBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\ChessBot\obj\Debug\net7.0\ChessBot.AssemblyInfoInputs.cache
+C:\programming\ChessBot\obj\Debug\net7.0\ChessBot.AssemblyInfo.cs
+C:\programming\ChessBot\obj\Debug\net7.0\ChessBot.csproj.CoreCompileInputs.cache
+C:\programming\ChessBot\bin\Debug\net7.0\ChessBot.exe
+C:\programming\ChessBot\bin\Debug\net7.0\ChessBot.deps.json
+C:\programming\ChessBot\bin\Debug\net7.0\ChessBot.runtimeconfig.json
+C:\programming\ChessBot\bin\Debug\net7.0\ChessBot.dll
+C:\programming\ChessBot\bin\Debug\net7.0\ChessBot.pdb
+C:\programming\ChessBot\obj\Debug\net7.0\ChessBot.dll
+C:\programming\ChessBot\obj\Debug\net7.0\refint\ChessBot.dll
+C:\programming\ChessBot\obj\Debug\net7.0\ChessBot.pdb
+C:\programming\ChessBot\obj\Debug\net7.0\ChessBot.genruntimeconfig.cache
+C:\programming\ChessBot\obj\Debug\net7.0\ref\ChessBot.dll
